@@ -52,7 +52,7 @@ See [Greenlock Express](https://git.rootprojects.org/root/greenlock-express.js) 
 
 ```
 
-See the ACME.js for more details.
+See the [ACME.js](https://git.rootprojects.org/root/acme-v2.js) for more details.
 
 ## Build your own
 There are only 5 methods:
