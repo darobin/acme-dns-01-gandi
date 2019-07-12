@@ -3,6 +3,9 @@
 	"version": "3.0.0",
 	"description": "Gandi + Let's Encrypt for Node.js - ACME dns-01 challenges w/ ACME.js and Greenlock.js",
 	"main": "index.js",
+	"files": [
+		"lib"
+	],
 	"scripts": {
 		"test": "node test.js"
 	},
