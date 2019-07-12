@@ -1,6 +1,6 @@
 {
 	"name": "acme-dns-01-gandi",
-	"version": "0.0.1",
+	"version": "3.0.0",
 	"description": "Gandi + Let's Encrypt for Node.js - ACME dns-01 challenges w/ ACME.js and Greenlock.js",
 	"main": "index.js",
 	"scripts": {
@@ -22,6 +22,7 @@
 	"author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
 	"license": "MPL-2.0",
 	"devDependencies": {
+		"acme-challenge-test": "^3.3.2",
 		"dotenv": "^8.0.0"
 	}
 }

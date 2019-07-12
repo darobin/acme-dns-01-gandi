@@ -3,6 +3,7 @@
 
 // See https://git.coolaj86.com/coolaj86/acme-challenge-test.js
 var tester = require('acme-challenge-test');
+require('dotenv').config();
 
 // Usage: node ./test.js example.com xxxxxxxxx
 var zone = process.argv[2] || process.env.ZONE;
