@@ -1,27 +1,27 @@
 {
-  "name": "acme-dns-01-gandi",
-  "version": "0.0.1",
-  "description": "Gandi + Let's Encrypt for Node.js - ACME dns-01 challenges w/ ACME.js and Greenlock.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://git.coolaj86.com/coolaj86/acme-dns-01-gandi.js.git"
-  },
-  "keywords": [
-    "digitalocean",
-    "digital-ocean",
-    "dns",
-    "dns-01",
-    "letsencrypt",
-    "acme",
-    "greenlock"
-  ],
-  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
-  "license": "MPL-2.0",
-  "devDependencies": {
-    "dotenv": "^8.0.0"
-  }
+	"name": "acme-dns-01-gandi",
+	"version": "0.0.1",
+	"description": "Gandi + Let's Encrypt for Node.js - ACME dns-01 challenges w/ ACME.js and Greenlock.js",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://git.coolaj86.com/coolaj86/acme-dns-01-gandi.js.git"
+	},
+	"keywords": [
+		"digitalocean",
+		"digital-ocean",
+		"dns",
+		"dns-01",
+		"letsencrypt",
+		"acme",
+		"greenlock"
+	],
+	"author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
+	"license": "MPL-2.0",
+	"devDependencies": {
+		"dotenv": "^8.0.0"
+	}
 }
