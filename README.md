@@ -1,3 +1,6 @@
+
+This is a fork of `acme-dns-01-gandi` that, well, just basically makes it work.
+
 # [acme-dns-01-gandi.js](https://git.rootprojects.org/root/acme-dns-01-gandi.js) | a [Root](https://rootprojects.org/) project
 
 Gandi LiveDNS + Let's Encrypt for Node.js - ACME dns-01 challenges w/ ACME.js and Greenlock.js
